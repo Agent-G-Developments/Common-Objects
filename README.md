@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The Agent G Common Objects Library is a collection of Power Platform Components developed to support citizen and pro developers within local and central government. All of the components are built using out of the box Microsoft Power PLatform objects, meaning you do not need to enable the component framework for canvas apps feature. The repository holds Power Platform solution for Agent G Common Objects Library and a Sample app. This readme file explains how to import solutions and what components are available and how to use them. 
+The Agent G Common Objects Library is a collection of Power Platform Components developed to support citizen and pro developers within local and central government. All of the components are built using out of the box Microsoft Power Platform objects, meaning you do not need to enable the component framework for canvas apps feature. The repository holds Power Platform solution for Agent G Common Objects Library and a Sample app. This readme file explains how to import solutions and what components are available and how to use them. 
 
 
 ## Importing Solution
 
 Navigate to the latest *Release* within github and download the desired solution zip file. 
-- Navigate to either your PowerApps or PowerAutomate home page.
+- Navigate to either your Power Apps or Power Automate home page.
 - Select your desired Power Platform *Environment*
 - Click on *Solutions*
 - Press *Import Solutions* and then *browse* and select the downloaded zip file *"Agent-G-Common-Objects-Solution.zip"*
@@ -18,7 +18,7 @@ Note this is the same process if you are upgrading the solution.
 
 ## Global Configuration Variable (Prerequisite For the Component Library)
 
-To save time developing PowerApps I have created this pfx which I save into all of my Apps. It allows me to easily reference common information anywhere from my apps but also passes information to all of my Common Objects such as the colour theme to use or the font size to be used. 
+To save time developing Power Apps I have created this pfx which I save into all of my Apps. It allows me to easily reference common information anywhere from my apps but also passes information to all of my Common Objects such as the colour theme to use or the font size to be used. 
 To use this code in a PowerApp simply navigate to ***App*** option the ***Screens*** menu and paste the below code in the ***OnStart*** property. The first four values should be updated as appropriately for your app however the others should remain as they are.  
 
 ```

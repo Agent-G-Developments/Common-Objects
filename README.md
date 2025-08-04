@@ -352,7 +352,7 @@ This component can be used as a navigation menu, by default it collapses to just
 | Menu Item 8 OnSelect| This Event property allows you to define the OnSelect action when a Menu Item Icon or Text is pressed. E.g. a Navigate command. 
 | Menu Item 9 OnSelect| This Event property allows you to define the OnSelect action when a Menu Item Icon or Text is pressed. E.g. a Navigate command. 
 | Setting OnSelect| This Event property allows you to define the OnSelect action when a Setting  Icon or Text is pressed. E.g. a Navigate command. 
-
+| Show Settings | This enables you to toggle between showing the Settings button under the other menu items or not. The default value is true, to hide this button and the adjust the size of the menu simply change to false. 
 ### <u>Menu - Waffle</u>
 ![Alt text](https://github.com/Agent-G-Developments/Common-Objects/blob/main/Screenshots/Waffle.jpeg "Waffle")
 ### Description
@@ -374,5 +374,6 @@ This component can be used as a navigation menu, by default it collapses to just
 | Menu Item 7 OnSelect| This Event property allows you to define the OnSelect action when a Menu Item Icon or Text is pressed. E.g. a Navigate command. 
 | Menu Item 8 OnSelect| This Event property allows you to define the OnSelect action when a Menu Item Icon or Text is pressed. E.g. a Navigate command. 
 | Menu Item 9 OnSelect| This Event property allows you to define the OnSelect action when a Menu Item Icon or Text is pressed. E.g. a Navigate command. 
-| Setting OnSelect| This Event property allows you to define the OnSelect action when a Setting  Icon or Text is pressed. E.g. a Navigate command. 
-
+| Menu Setting OnSelect| This Event property allows you to define the OnSelect action when a Setting Icon or Text is pressed. E.g. a Navigate command. 
+| Show Settings | This enables you to toggle between showing the Settings button under the other menu items or not. The default value is true, to hide this button and the adjust the size of the menu simply change to false. 
+### <u>Menu - Waffle</u>
